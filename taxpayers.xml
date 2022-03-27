@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><class>
+   
+   
+    
+<person idno="1"><firstname>Andrei</firstname><lastname>Georgescu</lastname><land>2000</land><carCapacity>5000</carCapacity></person><person idno="2"><firstname>Doina</firstname><lastname>Radu</lastname><land>4000</land><carCapacity>4500</carCapacity></person><person idno="3"><firstname>Vlad</firstname><lastname>Popescu</lastname><land>1000</land><carCapacity>4000</carCapacity></person><person idno="4"><firstname>Ionut</firstname><lastname>Buzduga</lastname><land>2000</land><carCapacity>4000</carCapacity></person></class>
